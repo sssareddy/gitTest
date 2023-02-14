@@ -12,7 +12,7 @@ public String sayHello()
     int even[] = new int[num];
     int sum = 0,j = 0;
     String evennums = "";
-    //Insert your code here
+    //Insert your code here 2
     for(int i=1;i<=even.length;i++) {
       if(i%2==0) {
       if(i<even.length) {
